@@ -1,9 +1,13 @@
+## José Antonio Ribeiro Souto 
+[![Linkedin](https://img.shields.io/badge/-José_Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseantoniorsouto/)](https://www.linkedin.com/in/joseantoniorsouto/)
+[![Gmail Badge](https://img.shields.io/badge/-josejarsbr@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josejarsbr@gmail.com)](mailto:josejarsbr@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/jarsbr?label=follow&style=social)](https://github.com/JarsBr)
 <h3>Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas De Informções** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
 - 💼 &nbsp; **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Data Analytics**.
 
 <h3>Minhas Skills</h3>
 
@@ -23,6 +27,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+<h3>minhas Estatisticas</h3>
 
 <br/>
 
@@ -30,10 +35,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarsbr&theme=dracula&show_icons=true" />
 </a>
 
-<h3>Onde me encontrar</h3>
+<br><br>
 
-[![Linkedin](https://img.shields.io/badge/-José_Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseantoniorsouto/)](https://www.linkedin.com/in/joseantoniorsouto/)
-[![Gmail Badge](https://img.shields.io/badge/-josejarsbr@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josejarsbr@gmail.com)](mailto:josejarsbr@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/jarsbr?label=follow&style=social)](https://github.com/JarsBr)
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarsbr&theme=dracula&hide_langs_below=1" />
+</a>
+
+<br><br>  
 
 ![](https://komarev.com/ghpvc/?username=jarsbr&color=006bed)
