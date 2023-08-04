@@ -27,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3>minhas Estatisticas</h3>
+<h3>Minhas Estatisticas</h3>
 
 <br/>
 
