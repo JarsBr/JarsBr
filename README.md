@@ -5,7 +5,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Sistemas De Informções** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
+- 🎓 &nbsp; Estudando **Sistemas De Informações** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Data Analytics**.
 - 💼 &nbsp; **Experiências Profissionais: Estágios e Programas de Bolsas**
   
