@@ -7,10 +7,10 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Sistemas De Informações** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Data Analytics**.
-- 💼 &nbsp; **Experiências Profissionais: Estágios e Programas de Bolsas**
+- 💼 &nbsp; **Experiências Profissionais:**
   
   - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a>
-
+  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a>
 
 <h3>Minhas Skills</h3>
 
