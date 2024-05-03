@@ -6,11 +6,18 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Sistemas De Informações** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Data Analytics**.
+- 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Cloud Data Engineering / IA**.
 - 💼 &nbsp; **Experiências Profissionais:**
   
-  - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a>
-  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a>
+  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Fev/2024 - O momento
+  - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Abr/2023 - Set/2023
+  
+<h3>Minhas Certificações</h3>
+
+- **<a href="https://www.credly.com/badges/6ca11699-8873-4697-8a9f-f9c0ffbfbd7c/public_url">AWS Certified Cloud Practitioner</a>**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CloudPractitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
 
 <h3>Minhas Skills</h3>
 
