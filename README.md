@@ -9,8 +9,8 @@
 - 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Cloud Data Engineering / IA**.
 - 💼 &nbsp; **Experiências Profissionais:**
   
-  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Fev/2024 - O momento
-  - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Abr/2023 - Set/2023
+  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Fevereiro 2024 - O momento
+  - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Abril 2023 - Setembro 2023
   
 <h3>Minhas Certificações</h3>
 
