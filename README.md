@@ -16,7 +16,20 @@
 
 - **<a href="https://www.credly.com/badges/6ca11699-8873-4697-8a9f-f9c0ffbfbd7c/public_url">AWS Certified Cloud Practitioner</a>**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![CloudPractitioner](https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150"/>
+
+- **<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoseSouto-0313/46D7389665CF292E?sharingId=6633DAD2C34BCD2B">Microsoft: Azure AI Fundamentals</a>**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
+
+- **<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoseSouto-0313/46D7389665CF292E?sharingId=6633DAD2C34BCD2B">Microsoft: Azure AI Fundamentals</a>**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
+
+- **<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoseSouto-0313/46D7389665CF292E?sharingId=6633DAD2C34BCD2B">Microsoft: Azure AI Fundamentals</a>**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
+
 
 
 <h3>Minhas Skills</h3>
