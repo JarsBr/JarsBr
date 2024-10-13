@@ -22,13 +22,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
 
-- **<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoseSouto-0313/46D7389665CF292E?sharingId=6633DAD2C34BCD2B">Microsoft: Azure AI Fundamentals</a>**
+- **<a href="JoseSoutoIA/JoseSoutoIA.pdf">Compass.UOL - AI-Assisted Certified Professional</a>**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoIA/JoseSoutoIA.jpg" width="500"/>
 
-- **<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoseSouto-0313/46D7389665CF292E?sharingId=6633DAD2C34BCD2B">Microsoft: Azure AI Fundamentals</a>**
+- **<a href="JoseSoutoGenIA/JoseSoutoGenIA.pdf">Microsoft: Azure AI Fundamentals</a>**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoGenIA/JoseSoutoGenIA.jpg" width="500"/>
 
 
 
