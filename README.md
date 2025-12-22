@@ -26,7 +26,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoIA/JoseSoutoIA.jpg" width="500"/>
 
-- **<a href="JoseSoutoGenIA/JoseSoutoGenIA.pdf">Microsoft: Azure AI Fundamentals</a>**
+- **<a href="JoseSoutoGenIA/JoseSoutoGenIA.pdf">Compass.UOL - Gen-AI Certified Professional</a>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoGenIA/JoseSoutoGenIA.jpg" width="500"/>
 
