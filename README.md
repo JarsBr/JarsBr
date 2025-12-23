@@ -26,7 +26,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoIA/AI-Assisted_Certified_Professional.jpg" width="500"/>
 
-- **<a href="JoseSoutoGenIA/GenAI_Technical_Certification[14309].pdf">Compass.UOL - Gen-AI Certified Professional</a>**
+- **<a href="JoseSoutoGenIA/GenAI_Technical_Certification.pdf">Compass.UOL - Gen-AI Certified Professional</a>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoGenIA/GenAI_Technical_Certification.jpg" width="500"/>
 
