@@ -22,9 +22,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="150"/>
 
-- **<a href="JoseSoutoIA/JoseSoutoIA.pdf">Compass.UOL - AI-Assisted Certified Professional</a>**
+- **<a href="JoseSoutoIA/AI-Assisted_Certified_Professional[14310].pdf">Compass.UOL - AI-Assisted Certified Professional</a>**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoIA/JoseSoutoIA.jpg" width="500"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="JoseSoutoIA/AI-Assisted_Certified_Professional.jpg" width="500"/>
 
 - **<a href="JoseSoutoGenIA/GenAI_Technical_Certification[14309].pdf">Compass.UOL - Gen-AI Certified Professional</a>**
 
