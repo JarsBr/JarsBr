@@ -2,15 +2,19 @@
 [![Linkedin](https://img.shields.io/badge/-José_Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseantoniorsouto/)](https://www.linkedin.com/in/joseantoniorsouto/)
 [![Gmail Badge](https://img.shields.io/badge/-josejarsbr@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josejarsbr@gmail.com)](mailto:josejarsbr@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/jarsbr?label=follow&style=social)](https://github.com/JarsBr)
+
 <h3>Sobre mim</h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando **Sistemas De Informações** no <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services (AWS) / Cloud Data Engineering / IA**.
+- 👨‍💻 &nbsp; Engenheiro de Dados com experiência em migração de dados e pipelines, transformação e validação de dados.
+- 🎓 &nbsp; Graduado em **Sistemas de Informação** pelo <a href="https://www.ifgoiano.edu.br/home/index.php/urutai.html">IF Goiano - Campus Urutaí</a>.
+- 📚 &nbsp; Cursando pós-graduação em **Data Science e Analytics**.
+- ☁️ &nbsp; Experiência com **SQL, Python, AWS, Apache Airflow, Snowflake, BigQuery, dbt e Amazon QuickSight**.
+- 🚀 &nbsp; Experiência em projetos de migração de dados, pipelines de ETL e validação da qualidade e consistência dos dados.
+- 🏅 &nbsp; Certificado **Databricks Certified Data Engineer Associate** e **Microsoft Azure AI Fundamentals**.
+- 🌱 &nbsp; Aprofundando conhecimentos em **Engenharia de Dados, Cloud Computing, Big Data e Inteligência Artificial**.
 - 💼 &nbsp; **Experiências Profissionais:**
-  
-  - **Programador Trainee na Compass Uol / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Fevereiro 2024 - O momento
-  - **Programa de Bolsas / Engenharia de Dados** na <a href="https://compass.uol/pt/studios/data-analytics/">Compass</a> : Abril 2023 - Setembro 2023
+  - Engenheiro de Dados na Compass UOL (2024–2026).
+  - Estagiário em Engenharia de Dados na Compass UOL (2023).
   
 <h3>Minhas Certificações</h3>
 
