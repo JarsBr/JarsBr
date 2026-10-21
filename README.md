@@ -18,7 +18,7 @@
   
 <h3>Minhas Certificações</h3>
 
-- **<a href="https://credentials.databricks.com/bc73b235-0ccd-4ae8-8813-b1e41033f44f#acc.QC9fDYFu">Databricks Certified Data Engineer Associate</a>**\
+- **<a href="https://credentials.databricks.com/bc73b235-0ccd-4ae8-8813-b1e41033f44f#acc.QC9fDYFu">Databricks Certified Data Engineer Associate</a>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://credentials.databricks.com/bc73b235-0ccd-4ae8-8813-b1e41033f44f#acc.QC9fDYFu">
 <img src="https://github.com/JarsBr/JarsBr/blob/main/cert%20databricks.png" width="500"/>
