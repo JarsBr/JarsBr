@@ -18,6 +18,12 @@
   
 <h3>Minhas Certificações</h3>
 
+- **<a href="https://credentials.databricks.com/bc73b235-0ccd-4ae8-8813-b1e41033f44f#acc.QC9fDYFu">Databricks Certified Data Engineer Associate</a>**\
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://credentials.databricks.com/bc73b235-0ccd-4ae8-8813-b1e41033f44f#acc.QC9fDYFu">
+<img src="https://github.com/JarsBr/JarsBr/blob/main/cert%20databricks.png" width="500"/>
+</a>
+
 - **<a href="https://www.credly.com/badges/6ca11699-8873-4697-8a9f-f9c0ffbfbd7c/public_url">AWS Certified Cloud Practitioner</a>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150"/>
