@@ -42,7 +42,7 @@
 
 
 
-<h3>Minhas Skills</h3>
+<!-- <h3>Minhas Skills</h3>
 
 **Aplicações e dados**
 
@@ -68,7 +68,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarsbr&theme=dracula&show_icons=true" />
 </a>
 
-<br><br>
+<br><br> -->
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarsbr&theme=dracula&hide_langs_below=1" />
